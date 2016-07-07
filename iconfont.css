@@ -1,0 +1,19 @@
+@font-face {font-family: 'iconfont';
+    src: url('iconfont/fontello.eot'); /* IE9*/
+    src: url('iconfont/fontello.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('iconfont/fontello.woff') format('woff'), /* chrome、firefox */
+    url('iconfont/fontello.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('iconfont/fontello.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:10px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right:5px;
+    cursor: pointer;
+    vertical-align: middle;
+    position: relative;
+    bottom: 3px;
+}
